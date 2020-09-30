@@ -1,0 +1,50 @@
+1. HTML that helps search engines define content of webpage
+2. Creates structure of website
+3. An CSS tag of an HTML element
+4. For the title, once
+5. Class or ID
+6. The title, style, meta and links and base
+7. An CSS identifier for an HTML element
+8. Any html element in the body section
+9. Once
+10. A CSS identifier for an HTML element
+11. Any html element in the body section
+12. As many times as needed
+13. <a href = "" target = "_blank">
+14. Gives test explaining the image
+15. With a "#"
+16. A section is semantic html and a div is an element in html that blocks out space on a webpage
+17. To style web pages
+18. H2 {}
+19. A class is an element tag that can be used multiple times, so I can use it on different elements in a webpage to give the different elements the same styling. An ID is only used for one element and cannot be used to style multiple elements at once
+p.example h1.example {
+}
+#example {}
+20. "."
+21. P.human {}
+22. This is when you select every child element that is under a certain parent element like div > p{} which means select every p that is under div
+23. a div.sidebar {}
+24. Defines a special state of an element
+25. Line-height {}
+26. Letter-spacing {}
+27. Text-transform: capitalize, lowercase, uppercase;
+28. Div {border: 1px dotted black}
+29. * {}
+30. /* */
+31. Pwd
+32. Ls
+33. rm, Because it doesn't ask twice
+34. To keep multiple versions of code throughout changes by you or other developers
+35. When you have made significant changes to your code and you want to keep both copies
+36. Git push -u origin "Branch-name"
+37. Lambda creates a master copy and all students make forks of this copy to create their own branch in GitHub, clone their copy on their computer, and checkout -b to create their new branch on their local computer. Once they are done editing they add their project to the staging area, then they commit -m "comment" which prepares the changes to be made and then they "git push" them onto their GitHub repository.
+
+Stretch questions
+1. An inline element does not take up a whole row on the webpage but can share the space next to them with other elements in contrast with a block element which "blocks" out an area for itself that is only for the block element
+2. An element is positioned in relation to its parent element in a static format
+3. Margin: auto
+4. Block: Div, H1, P
+Inline: img, a
+Inline-block: input
+5. The box model is the margin, padding, border and content that make up an element. The Margin is the outer edge that pushes other elements away. The padding is the space between the content and the box containing it. The border is the perimeter of the container, And the content can be any html body element like a paragraph, image heading or link. 
+
